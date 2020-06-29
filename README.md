@@ -5,7 +5,7 @@ This is ArpanOS V-1.0.5.0
 This OS is fully compatible with x64 windows versions.
 Maker-Arpan Chatterjee
 This is my first OS!
-No bugs. It has passed my quality checks. I have checked it and I did not find any bugs. Bugs will only appear if the system crashes, gets corrupt or by your mistake. I have tried my best to make it user-friendly. It uses MS-DOS like commands, but not that hard to remember. I have included the .BAS file of the OS, so that you all can configure it independently. I made it using QB64, and the .BAS file will open in QB64 only! You can inform to me anything about this OS by mailing me at - arpanchatterjee1647@gmail.com .I will give more updates and include more programs in the next update. 
+No bugs. It has passed my quality checks. I have checked it and I did not find any bugs. Bugs will only appear if the system crashes, gets corrupt or by your mistake. I have tried my best to make it user-friendly. It uses MS-DOS like commands, but not that hard to remember. I have included the .BAS file of the OS, so that you all can take an idea. I made it using QB64, and the .BAS file will open in QB64 only! You can inform to me anything about this OS by mailing me at - arpanchatterjee1647@gmail.com .I will give more updates and include more programs in the next update. 
 Password for all apps – 1647
 Font used – arpanosbitmap.ttf (Microsoft© TrueType font)
 Language – English
@@ -26,8 +26,7 @@ Programs included:-
 Files in this pack:-
 1) ArpanOS README File (This file)
 2) ARPAN_OS.EXE (Operating system executable file (OPEN THIS FIRST!)
-3) ARPAN_OS.BAS (Source code file)
-4) Arpanosbitmap.ttf (Fonts file) 
+3) ARPAN_OS.BAS (Source code file)Pa
 
 Good luck!
 By - Arpan Chatterjee
