@@ -152,7 +152,7 @@ Note: Both ArpanOS and TrixOS have been tested for stability. Issues may occur d
 - **Includes**: All programs (plotter, clock, stopwatch, picviewer, and more)
 - **Download**: [ArpanOS 1.0.5.0 Release](https://github.com/UnknownCoder56/TrixOS/releases/tag/1.0.5.0)
 
-> **Note**: TrixOS 2.0 represents the final and most polished version of this project, offering significant improvements over ArpanOS in terms of user interface and stability.
+> **Note**: TrixOS 2.0 represents the latest and most polished version of this project, offering significant improvements over ArpanOS in terms of user interface and stability.
 
 ## 🤝 Contributing
 
